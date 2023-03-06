@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Hello Squirrel</string>
 
     <string name="first_name">Josh</string>
